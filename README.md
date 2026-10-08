@@ -1,7 +1,7 @@
 
   <h1>DevScope – Privacy Policy</h1>
   <p class="subtitle">Last updated: October 2026</p>
-
+<img src="https://raw.githubusercontent.com/dhanjeerider/devscope/refs/heads/main/demo%20screenshot.jpg" alt="DevScope Demo Screenshot">
   <div class="highlight">
     <strong>TL;DR:</strong> DevScope collects zero data. No analytics, no tracking, no accounts, no servers. Everything stays on your device.
   </div>
